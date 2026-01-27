@@ -16,7 +16,7 @@ Your orders are to **refactor the entire codebase** into a modular, function-bas
 
 **Task:**
 
-1. Open this code space () I have populated it with this spaghetti code.
+1. Open this code space (https://classroom.github.com/a/eVR42nHF) I have populated it with this spaghetti code.
     
 2.  Debug the **Syntax Errors** (missing colons, broken strings).
     
